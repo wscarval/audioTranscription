@@ -20,10 +20,15 @@ Baixe e instale o **Python 3.9+**:
 
 **Verifique a instalação:**  
 ``python --version``
+
 ``pip install openai-whisper tkinter ffmpeg-python``
+
 ``pip install ffmpeg-python``
+
 ``python -m whisper --help``
 
 
+
 ``git clone https://github.com/wscarval/audioTranscription.git``
+
 ``cd transcricao-whisper``
