@@ -41,8 +41,8 @@ Baixe e instale o **Python 3.9+**:
 ``pip install ffmpeg-python``
 
 Ou baixe diretamente em https://ffmpeg.org/download.html.
-2️⃣ **ModuleNotFoundError: No module named 'whisper'
 
+2️⃣ **ModuleNotFoundError: No module named 'whisper'
 
 ➡️ O Whisper não está instalado corretamente. Execute:
 
