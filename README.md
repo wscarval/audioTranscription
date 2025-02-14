@@ -33,7 +33,8 @@ Baixe e instale o **Python 3.9+**:
 
 ``cd transcricao-whisper``
 
-🔧 Erros Comuns e Soluções
+# 🔧 Erros Comuns e Soluções
+
 1️⃣ **ffmpeg: comando não encontrado
 
 ➡️ O Whisper precisa do FFmpeg. Instale com:
